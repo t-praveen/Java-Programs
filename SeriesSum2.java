@@ -1,3 +1,5 @@
+//Program to display the sum of series i.e. 1-1/2+1/3-1/4+1/5-1/6.....//
+
 package seriesSum;
 import java.util.Scanner;
 
