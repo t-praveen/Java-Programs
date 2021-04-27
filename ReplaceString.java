@@ -16,6 +16,8 @@ public class ReplaceString {
 		System.out.println("After implementing replace method ,  the 1st String is : "+s5.replace('o' , 'r'));
 		String s6 = " I am Praveen";
 		System.out.println("After implementing replace method ,  the 1st String is : "+s6.replace("You" , "Yes"));
+		System.out.println("After implementing replace method ,  the 7th String is "+s7.replace("xx" , "x"));
+		// replace() method replaces substrings starting from the start to the end.
 	}
 
 }
