@@ -1,3 +1,4 @@
+//CHANGING ARRAY SIZE//
 package changingArraySize;
 
 import java.util.Scanner;
