@@ -1,3 +1,4 @@
+//ARMSTRONG NUMBER//
 package armstrong;
 import java.util.Scanner;
 
