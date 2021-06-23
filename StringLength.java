@@ -1,3 +1,5 @@
+//PROGRAM TO FIND THE LENGTH OF THE STRING//
+
 package strings;
 import java.util.Scanner;
 
