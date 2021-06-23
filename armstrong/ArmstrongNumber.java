@@ -1,4 +1,4 @@
-//ARMSTRONG NUMBER//
+// PRORAM TO CHECK ARMSTRONG NUMBER//
 package armstrong;
 import java.util.Scanner;
 
