@@ -1,3 +1,5 @@
+//PROGRAM TO DISPLAY SUNNY NUMBER//
+
 package sunny;
 import java.util.Scanner;
 
