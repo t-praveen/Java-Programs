@@ -1,3 +1,4 @@
+//PROGRAM TO CHECK PERFECT NUMBER//
 package perfect;
 import java.util.Scanner;
 
