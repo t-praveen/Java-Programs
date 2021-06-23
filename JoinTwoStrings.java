@@ -1,3 +1,5 @@
+//PROGRAM TO JOIN TWO STRINGS//
+
 package strings;
 import java.util.Scanner;
 
