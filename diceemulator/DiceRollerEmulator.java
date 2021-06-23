@@ -1,3 +1,6 @@
+//DICE EMULATOR PROGRAM//
+
+
 package diceemulator;
 import java.util.Scanner;
 import java.util.Random;
