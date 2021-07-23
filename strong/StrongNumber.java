@@ -1,4 +1,4 @@
-package strong;
+package strong; 
 import java.util.Scanner;
 
 public class StrongNumber {
