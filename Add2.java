@@ -1,4 +1,4 @@
-class Add2    
+class Add2     
 {
     public static void main(String args[])
     {
