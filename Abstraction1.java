@@ -1,7 +1,7 @@
 abstract class MaheshPhone        
 {     
     public void call()  
-    {
+    { 
         System.out.println("Calling.."); 
     }
     public abstract void move();
