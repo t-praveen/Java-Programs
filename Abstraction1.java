@@ -2,7 +2,7 @@ abstract class MaheshPhone
 {     
     public void call()  
     {
-        System.out.println("Calling..");
+        System.out.println("Calling.."); 
     }
     public abstract void move();
     public abstract void dance();
