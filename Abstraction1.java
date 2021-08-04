@@ -1,6 +1,6 @@
 abstract class MaheshPhone        
 {     
-    public void call()
+    public void call() 
     {
         System.out.println("Calling..");
     }
