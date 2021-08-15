@@ -1,5 +1,5 @@
 class Add2
-{
+{ 
     public static void main(String args[])
     {
             double num1=15.0;
