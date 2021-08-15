@@ -1,6 +1,6 @@
 class Add2 
 { 
-    public static void main(String args[])
+    public static void main(String args[]) 
     { 
             double num1=15.0;
             double num2=15.0;
