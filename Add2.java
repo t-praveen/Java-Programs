@@ -4,6 +4,6 @@ class Add2
     {  
             double num1=15.0; 
             double num2=15.0;
-            System.out.println(num1+num2);
+            System.out.println(num1+num2); 
     }
 }
