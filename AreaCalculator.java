@@ -18,7 +18,7 @@ public class AreaCalculator {
 		System.out.println("The Area of the Rectangle is : "+result2);
 		sc.close();
 
-	}
+	} 
 	public static double area(double radius)
 	{
 		if(radius < 0)
